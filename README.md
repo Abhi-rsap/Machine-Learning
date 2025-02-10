@@ -6,6 +6,10 @@ I have implemented this project in three phases:
 2. Model Creation and Evaluation
 3. Model Deployment on Streamlit
 
+![image](https://github.com/user-attachments/assets/5278cda0-c4c7-4179-919f-e26b2f3ea57e)
+
+![image](https://github.com/user-attachments/assets/3e91533f-ef39-46ee-b952-b0c2062a718d)
+
 
 ## Installation
 
